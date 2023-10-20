@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adieuleveutteam.github.io/adieuleveutteam/sitemap.xml
+Sitemap: https://adieuleveutteam.github.io/sitemap.xml
