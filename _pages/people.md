@@ -8,11 +8,11 @@ nav_order: 1
 
 ---
 
-##### Postdoctoral fellows
+### Postdoctoral fellows
 
 - [Rémi Leluc](https://remileluc.github.io/), 2023 -- .
 
-##### PhD students
+### PhD students
 
 - Renaud Gaucher, 2023 -- .  
 _Co-director:_ H. Hendrikx
@@ -31,7 +31,7 @@ _Co-director:_ J. Josse
 
 - Mahmoud Hegazy, 2023 -- .
 
-##### Associated researchers & main collaborators
+### Associated researchers & main collaborators
 
 - [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/)
 - [Claire Boyer](https://perso.lpsm.paris/~cboyer/)
@@ -42,13 +42,13 @@ _Co-director:_ J. Josse
 - [Erwan Scornet](https://erwanscornet.github.io/)
 - [Adrien Taylor](https://adrientaylor.github.io/)
 
-##### Former PhD students
+### Former PhD students
 
 - [Constantin Philippenko](https://philipco.github.io/), 2019 -- 2023.
     - [PhD dissertation](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf)·[slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)
     - Postdoctoral fellow with Kevin Scaman and Laurent Massoulié, at INRIA Paris
 
-##### Former MSc students
+### Former MSc students
 
 - Maxence Noble, 2021.  
 _Co-supervisor:_ A. Bellet
