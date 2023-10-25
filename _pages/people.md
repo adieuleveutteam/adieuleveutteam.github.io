@@ -20,13 +20,12 @@ _Co-director:_ H. Hendrikx
 - [Alexis Ayme](https://alexisayme.github.io/), 2021 -- .  
 _Co-directors:_ C. Boyer and E. Scornet
 
+- Baptiste Goujaud, 2020 -- .
+
 - [Margaux Zaffran](https://mzaffran.github.io/), 2020 -- .  
 _Co-director:_ J. Josse
     - Awarded with a L’Oréal-UNESCO Fellowship For Women In Science (Young Talents France) 2023
     - Awarded with a Séphora Berrebi Scholarship for Women in Advanced Mathematics 2022  
-
-
-- Baptiste Goujaud, 2020 -- .
 
 ### MSc students
 
@@ -46,7 +45,7 @@ _Co-director:_ J. Josse
 
 - [Constantin Philippenko](https://philipco.github.io/), 2019 -- 2023.
     - [PhD dissertation](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf) · [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)
-    - Postdoctoral fellow with Kevin Scaman and Laurent Massoulié, at INRIA Paris
+    - Postdoctoral fellow with K. Scaman and L. Massoulié, at INRIA Paris
 
 ### Former MSc students
 
