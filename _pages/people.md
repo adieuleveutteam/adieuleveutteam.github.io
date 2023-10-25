@@ -51,7 +51,7 @@ _Co-director:_ J. Josse
 
 - Renaud Gaucher, 2023.  
 _Co-supervisor:_ H. Hendrikx
-- Maxence Noble, 2021.  
-_Co-supervisor:_ A. Bellet
 - [Alexis Ayme](https://alexisayme.github.io/), 2021.  
 _Co-supervisors:_ C. Boyer and E. Scornet
+- Maxence Noble, 2021.  
+_Co-supervisor:_ A. Bellet
