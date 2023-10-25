@@ -1,21 +1,21 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title: People
 description: team members and collaborators
 nav: true
 nav_order: 1
 
 ---
 
-### Postdoctoral fellows
+##### Postdoctoral fellows
 
 - [Rémi Leluc](https://remileluc.github.io/), 2023 -- .
 
-### PhD students
+##### PhD students
 
 - Renaud Gaucher, 2023 -- .
-    - Co-director: H. Hendrikx
+_Co-director:_ H. Hendrikx
 
 - [Alexis Ayme](https://alexisayme.github.io/), 2021 -- .
     - Co-directors: C. Boyer and E. Scornet
@@ -26,3 +26,22 @@ nav_order: 1
     - Awarded with a Séphora Berrebi Scholarship for Women in Advanced Mathematics 2022
 
 - Baptiste Goujaud, 2020 -- .
+
+##### MSc students
+
+- Mahmoud Hegazy, 2023 -- .
+
+##### Associated researchers & main collaborators
+
+- Aurélien Bellet
+- Claire Boyer
+- Gersende Fort
+- Hadrien Hendrikx
+- Julie Josse
+- Éric Moulines
+- Erwan Scornet
+- Adrien Taylor
+
+##### Former PhD students
+
+- [Constantin Philippenko]()
