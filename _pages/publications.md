@@ -6,9 +6,11 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
+    - title: all
+      permalink: /publications/  
+    - title: divider
     - title: first order optimization
       permalink: /publications/first_order_optimization
-    - title: divider  
     - title: federated learning
       permalink: /publications/federated_learning
     - title: stochastic approximation
