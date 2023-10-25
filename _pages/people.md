@@ -45,7 +45,7 @@ _Co-director:_ J. Josse
 ### Former PhD students
 
 - [Constantin Philippenko](https://philipco.github.io/), 2019 -- 2023.
-    - [PhD dissertation](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf)·[slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)
+    - [PhD dissertation](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf) · [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)
     - Postdoctoral fellow with Kevin Scaman and Laurent Massoulié, at INRIA Paris
 
 ### Former MSc students
