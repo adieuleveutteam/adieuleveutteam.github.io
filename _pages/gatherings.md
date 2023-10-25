@@ -2,11 +2,10 @@
 layout: page
 permalink: /gatherings/
 title: Gatherings
-description: Team activities!
+description: Team activities! See the calendar at the bottom of the page for more info.
 nav: true
 nav_order: 3
 ---
-See the calendar at the bottom of the page for more info.
 
 ### Internal meetings
 
