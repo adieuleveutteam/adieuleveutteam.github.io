@@ -25,4 +25,6 @@ Our group is working on fields as diverse as:
 - missing values,
 - uncertainty quantification.
 
-On this website, you can find information about our research, our team and our organization. Please, feel free to get in touch with Aymeric if you would like to interact in one way or another (presentation, collaboration, position, etc.)! 
+On this website, you can find information about our research, our team and our organization.
+
+Feel free to get in touch with Aymeric if you would like to interact in one way or another (presentation, collaboration, position, etc.)! 
