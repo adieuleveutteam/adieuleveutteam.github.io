@@ -8,7 +8,7 @@ dropdown: true
 children:
     - title: first order optimization
       permalink: /publications/first_order_optimization
-    - title: divider
+    - title: divider  
     - title: federated learning
       permalink: /publications/federated_learning
     - title: stochastic approximation
