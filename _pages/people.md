@@ -33,14 +33,14 @@ _Co-director:_ J. Josse
 
 ### Associated researchers & main collaborators
 
-- [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/)
-- [Claire Boyer](https://perso.lpsm.paris/~cboyer/)
-- [Gersende Fort](https://perso.math.univ-toulouse.fr/gfort/)
-- [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/)
-- [Julie Josse](http://juliejosse.com/)
-- Éric Moulines
-- [Erwan Scornet](https://erwanscornet.github.io/)
-- [Adrien Taylor](https://adrientaylor.github.io/)
+- [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), INRIA Montpellier
+- [Claire Boyer](https://perso.lpsm.paris/~cboyer/), Sorbonne Université
+- [Gersende Fort](https://perso.math.univ-toulouse.fr/gfort/), Institut de Mathématiques de Toulouse
+- [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/), INRIA Grenoble
+- [Julie Josse](http://juliejosse.com/), INRIA Montpellier
+- Éric Moulines, École polytechnique
+- [Erwan Scornet](https://erwanscornet.github.io/), Sorbonne Université
+- [Adrien Taylor](https://adrientaylor.github.io/), INRIA Paris
 
 ### Former PhD students
 
