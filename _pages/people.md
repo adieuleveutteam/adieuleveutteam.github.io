@@ -24,7 +24,7 @@ _Co-directors:_ C. Boyer and E. Scornet
 _Co-director:_ J. Josse
     - Awarded with a L’Oréal-UNESCO Fellowship For Women In Science (Young Talents France) 2023
     - Awarded with a Séphora Berrebi Scholarship for Women in Advanced Mathematics 2022  
-    
+
 
 - Baptiste Goujaud, 2020 -- .
 
@@ -50,5 +50,9 @@ _Co-director:_ J. Josse
 
 ### Former MSc students
 
+- Renaud Gaucher, 2023.  
+_Co-supervisor:_ H. Hendrikx
 - Maxence Noble, 2021.  
 _Co-supervisor:_ A. Bellet
+- [Alexis Ayme](https://alexisayme.github.io/), 2021.  
+_Co-supervisors:_ C. Boyer and E. Scornet
