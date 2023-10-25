@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Renaud started his PhD, jointly supervised with [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/) :blush:
+:blush: Renaud started his PhD, jointly supervised with [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/) 
