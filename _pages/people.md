@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: People
-description: team members and collaborators
+description: Team members and collaborators.
 nav: true
 nav_order: 1
 

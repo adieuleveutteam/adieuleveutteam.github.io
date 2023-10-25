@@ -2,7 +2,7 @@
 layout: page
 permalink: /gatherings/
 title: Gatherings
-description: team activity
+description: Team activities!
 nav: true
 nav_order: 3
 ---
