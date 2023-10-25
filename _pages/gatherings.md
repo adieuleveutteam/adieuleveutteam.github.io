@@ -6,6 +6,7 @@ description: Team activities!
 nav: true
 nav_order: 3
 ---
+See the calendar at the bottom of the page for more info.
 
 ### Internal meetings
 
@@ -27,3 +28,5 @@ Once in a while, we also invite researchers to come and present us their work. I
 ### Statistics team meetings
 
 Additionally, the whole Statistics team of Ecole polytechnique gathers every month for a 2h group meeting on a specific topic: a long presentation introduces the research domain, and is followed by two shorter talks more specialized.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&title=Aymeric%20Dieuleveut's%20team%20events&showPrint=0&src=OTNjNDI2NDg5ZjY0NWEzZjQzMzI2NTgzYzMwNTNlMmI5Mjc4YjkyYmRhNWUwNGZjYzU1NmEwNGNjZDdhM2E3MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MmM1MjFqdHVsYWd1NWc2aGc0a3BydHNpb2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

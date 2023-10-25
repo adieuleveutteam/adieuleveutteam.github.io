@@ -18,3 +18,5 @@ children:
     - title: uncertainty quantification
       permalink: /publications/uncertainty_quantification
 ---
+
+Aymeric's full list of publication is available on [his scholar](https://scholar.google.fr/citations?user=ge-OinUAAAAJ&hl=fr).
