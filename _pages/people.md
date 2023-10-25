@@ -23,7 +23,8 @@ _Co-directors:_ C. Boyer and E. Scornet
 - [Margaux Zaffran](https://mzaffran.github.io/), 2020 -- .  
 _Co-director:_ J. Josse
     - Awarded with a L’Oréal-UNESCO Fellowship For Women In Science (Young Talents France) 2023
-    - Awarded with a Séphora Berrebi Scholarship for Women in Advanced Mathematics 2022
+    - Awarded with a Séphora Berrebi Scholarship for Women in Advanced Mathematics 2022  
+    
 
 - Baptiste Goujaud, 2020 -- .
 
