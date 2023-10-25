@@ -24,7 +24,7 @@ Once in a while, we also invite researchers to come and present us their work. I
 - \[[May 23rd, 2022](https://www.hi-paris.fr/2022/05/06/seminar-aaditya-ramdas-23-may-2022/)\], [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)
 - \[[April 6th, 2022](https://www.hi-paris.fr/2022/04/04/exceptionnal-seminar-reinhard-heckel-06-april-2022/)\], [Reinhard Heckel](https://reinhardheckel.com/)
 
-### Statistics team meetings
+### Statistics team meetings (a.k.a. SGM)
 
 Additionally, the whole Statistics team of Ecole polytechnique gathers every month for a 2h group meeting on a specific topic: a long presentation introduces the research domain, and is followed by two shorter talks more specialized.
 
