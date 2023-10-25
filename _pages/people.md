@@ -28,7 +28,7 @@ _Co-director:_ J. Josse
 
 - Baptiste Goujaud, 2020 -- .
 
-##### MSc students
+### MSc students
 
 - Mahmoud Hegazy, 2023 -- .
 
