@@ -9,7 +9,7 @@ nav_order: 3
 
 ### Internal meetings
 
-The team gather together every week for an internal group meeting where one of us present an interesting topic:
+The team gathers together every week for an internal group meeting where one of us presents either:
 - a paper we have read,
 - a current work in progress,
 - a paper we are writing to get feedback,
@@ -26,4 +26,4 @@ Once in a while, we also invite researchers to come and present us their work. I
 
 ### Statistics team meetings
 
-Additionally, the whole Statistics team of Ecole polytechnique gather every month for a 2h group meeting on a specific topic: long presentation introducing the research domain, followed by two shorter talks more specialized.
+Additionally, the whole Statistics team of Ecole polytechnique gathers every month for a 2h group meeting on a specific topic: a long presentation introduces the research domain, and is followed by two shorter talks more specialized.

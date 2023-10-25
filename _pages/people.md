@@ -14,7 +14,7 @@ nav_order: 1
 
 ##### PhD students
 
-- Renaud Gaucher, 2023 -- .
+- Renaud Gaucher, 2023 -- .  
 _Co-director:_ H. Hendrikx
 
 - [Alexis Ayme](https://alexisayme.github.io/), 2021 -- .
