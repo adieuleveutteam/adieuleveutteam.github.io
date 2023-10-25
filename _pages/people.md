@@ -33,7 +33,6 @@ _Co-director:_ J. Josse
 
 ### Associated researchers & main collaborators
 
-- [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), INRIA Montpellier
 - [Claire Boyer](https://perso.lpsm.paris/~cboyer/), Sorbonne Université
 - [Gersende Fort](https://perso.math.univ-toulouse.fr/gfort/), Institut de Mathématiques de Toulouse
 - [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/), INRIA Grenoble
