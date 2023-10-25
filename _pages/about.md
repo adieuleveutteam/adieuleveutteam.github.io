@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: @[CMAP](https://portail.polytechnique.edu/cmap/en), Ecole polytechnique. Palaiseau, France.
 
 profile:
   align: right
