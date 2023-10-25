@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) is an Assistant Professor of Statistics and Optimization within the team SIMPAS at CMAP, Ecole polytechnique, in France.
+[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) is an Assistant Professor of Statistics and Optimization at Ecole polytechnique, in France.
 
 Our group is working on fields as diverse as:
 - first order optimization,
@@ -27,4 +27,4 @@ Our group is working on fields as diverse as:
 
 On this website, you can find information about our research, our team and our organization.
 
-Feel free to get in touch with Aymeric if you would like to interact in one way or another (presentation, collaboration, position, etc.)! 
+Feel free to get in touch with Aymeric if you would like to interact in one way or another (presentation, collaboration, position, etc.)!
