@@ -31,6 +31,8 @@ _Co-director:_ J. Josse
 
 - Mahmoud Hegazy, 2023 -- .
 
+***
+
 ### Associated researchers & main collaborators
 
 - [Claire Boyer](https://perso.lpsm.paris/~cboyer/), Sorbonne Université
@@ -40,6 +42,8 @@ _Co-director:_ J. Josse
 - Éric Moulines, École polytechnique
 - [Erwan Scornet](https://erwanscornet.github.io/), Sorbonne Université
 - [Adrien Taylor](https://adrientaylor.github.io/), INRIA Paris
+
+***
 
 ### Former PhD students
 
