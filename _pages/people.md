@@ -49,6 +49,8 @@ _Co-director:_ J. Josse
 
 ### Former MSc students
 
+- Damien Ferbach, 2023.  
+_Co-supervisor:_ B. Goujaud
 - Renaud Gaucher, 2023.  
 _Co-supervisor:_ H. Hendrikx
 - [Alexis Ayme](https://alexisayme.github.io/), 2021.  
