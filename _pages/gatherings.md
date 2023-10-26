@@ -22,16 +22,24 @@ Once in a while, we also invite researchers to come and present us their work. W
 <summary>
 2023
 </summary>
-- \[[September 19th, 2023](https://www.hi-paris.fr/2023/09/11/research-seminar-bringing-regularized-optimal-transport-to-lightspeed/)\], [Mikael Johansson](https://people.kth.se/~mikaelj/)
-- \[[April 27th, 2023](https://www.hi-paris.fr/2023/03/09/hi-paris-seminar-jan-ramon-2023/)\], [Jan Ramon](http://researchers.lille.inria.fr/jramon/)
+<ul>
+<li><p> <a href="https://www.hi-paris.fr/2023/09/11/research-seminar-bringing-regularized-optimal-transport-to-lightspeed/">
+[September 19th, 2023]</a>, <a href="https://people.kth.se/~mikaelj/">Mikael Johansson</a> </p></li>
+<li><p> <a href="https://www.hi-paris.fr/2023/03/09/hi-paris-seminar-jan-ramon-2023/">
+[April 27th, 2023]</a>, <a href="http://researchers.lille.inria.fr/jramon/">Jan Ramon</a> </p></li>
+
 </details>
 <details open>
 <summary>
 2022
 </summary>
-- \[[May 23rd, 2022](https://www.hi-paris.fr/2022/05/06/seminar-aaditya-ramdas-23-may-2022/)\], [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)
-- \[[April 21st, 2022](https://www.hi-paris.fr/2022/04/19/exceptional-seminar-cristobal-guzman-21-april-2022/)\], [Cristobal Guzman](https://sites.google.com/view/cguzman/)
-- \[[April 6th, 2022](https://www.hi-paris.fr/2022/04/04/exceptionnal-seminar-reinhard-heckel-06-april-2022/)\], [Reinhard Heckel](https://reinhardheckel.com/)
+<li><p> <a href="https://www.hi-paris.fr/2022/05/06/seminar-aaditya-ramdas-23-may-2022/">
+[May 23rd, 2022]</a>, <a href="https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a> </p></li>
+<li><p> <a href="https://www.hi-paris.fr/2022/04/19/exceptional-seminar-cristobal-guzman-21-april-2022/">
+[April 21st, 2022]</a>, <a href="https://sites.google.com/view/cguzman/">Cristobal Guzman</a> </p></li>
+<li><p> <a href="https://www.hi-paris.fr/2022/04/04/exceptionnal-seminar-reinhard-heckel-06-april-2022/">
+[April 6th, 2022]</a>, <a href=https://reinhardheckel.com/">Reinhard Heckel</a> </p></li>
+</ul>
 </details>
 
 ### Statistics team meetings (a.k.a. SGM)
