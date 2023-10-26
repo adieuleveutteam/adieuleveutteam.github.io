@@ -43,6 +43,8 @@ Once in a while, we also invite researchers to come and present us their work. W
 </ul>
 </details>
 
+&nbsp;   
+
 ### Statistics team meetings (a.k.a. SGM)
 
 Additionally, the whole Statistics team of Ecole polytechnique gathers every month for a 2h group meeting on a specific topic: a long presentation introduces the research domain, and is followed by two shorter talks more specialized.
