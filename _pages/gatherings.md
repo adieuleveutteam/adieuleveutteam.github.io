@@ -27,9 +27,9 @@ Once in a while, we also invite researchers to come and present us their work. W
 [September 19th, 2023]</a>, <a href="https://people.kth.se/~mikaelj/">Mikael Johansson</a> </p></li>
 <li><p> <a href="https://www.hi-paris.fr/2023/03/09/hi-paris-seminar-jan-ramon-2023/">
 [April 27th, 2023]</a>, <a href="http://researchers.lille.inria.fr/jramon/">Jan Ramon</a> </p></li>
-
+</ul>
 </details>
-<details open>
+<details>
 <summary>
 2022
 </summary>
