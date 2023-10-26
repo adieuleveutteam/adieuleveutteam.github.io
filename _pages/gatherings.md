@@ -33,12 +33,13 @@ Once in a while, we also invite researchers to come and present us their work. W
 <summary>
 2022
 </summary>
+<ul>
 <li><p> <a href="https://www.hi-paris.fr/2022/05/06/seminar-aaditya-ramdas-23-may-2022/">
 [May 23rd, 2022]</a>, <a href="https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a> </p></li>
 <li><p> <a href="https://www.hi-paris.fr/2022/04/19/exceptional-seminar-cristobal-guzman-21-april-2022/">
 [April 21st, 2022]</a>, <a href="https://sites.google.com/view/cguzman/">Cristobal Guzman</a> </p></li>
 <li><p> <a href="https://www.hi-paris.fr/2022/04/04/exceptionnal-seminar-reinhard-heckel-06-april-2022/">
-[April 6th, 2022]</a>, <a href=https://reinhardheckel.com/">Reinhard Heckel</a> </p></li>
+[April 6th, 2022]</a>, <a href="https://reinhardheckel.com/">Reinhard Heckel</a> </p></li>
 </ul>
 </details>
 
