@@ -23,10 +23,8 @@ Once in a while, we also invite researchers to come and present us their work. W
 2023
 </summary>
 <ul>
-<li><p> <a href="https://people.kth.se/~mikaelj/">Mikael Johansson</a> · September 19th, 2023 · <a href="https://www.hi-paris.fr/2023/09/11/research-seminar-bringing-regularized-optimal-transport-to-lightspeed/">
-Bringing Regularized Optimal Transport to Lightspeed</a> </p> </li>
-<li><p> <a href="https://www.hi-paris.fr/2023/03/09/hi-paris-seminar-jan-ramon-2023/">
-[April 27th, 2023]</a>, <a href="http://researchers.lille.inria.fr/jramon/">Jan Ramon</a> </p></li>
+<li><p> <a href="https://people.kth.se/~mikaelj/">Mikael Johansson</a>, KTH Royal Institute of Technology · September 19th, 2023 · <a href="https://www.hi-paris.fr/2023/09/11/research-seminar-bringing-regularized-optimal-transport-to-lightspeed/"> Bringing regularized optimal transport to lightspeed </a> </p> </li>
+<li><p> <a href="http://researchers.lille.inria.fr/jramon/">Jan Ramon</a>, INRIA · April 27th, 2023 · <a href="https://www.hi-paris.fr/2023/03/09/hi-paris-seminar-jan-ramon-2023/"> Towards private and practical federated learning </a></p></li>
 </ul>
 </details>
 <details>
@@ -34,12 +32,9 @@ Bringing Regularized Optimal Transport to Lightspeed</a> </p> </li>
 2022
 </summary>
 <ul>
-<li><p> <a href="https://www.hi-paris.fr/2022/05/06/seminar-aaditya-ramdas-23-may-2022/">
-[May 23rd, 2022]</a>, <a href="https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a> </p></li>
-<li><p> <a href="https://www.hi-paris.fr/2022/04/19/exceptional-seminar-cristobal-guzman-21-april-2022/">
-[April 21st, 2022]</a>, <a href="https://sites.google.com/view/cguzman/">Cristobal Guzman</a> </p></li>
-<li><p> <a href="https://www.hi-paris.fr/2022/04/04/exceptionnal-seminar-reinhard-heckel-06-april-2022/">
-[April 6th, 2022]</a>, <a href="https://reinhardheckel.com/">Reinhard Heckel</a> </p></li>
+<li><p> <a href="https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>, Carnegie Mellon University · May 23rd, 2022 · <a href="https://www.hi-paris.fr/2022/05/06/seminar-aaditya-ramdas-23-may-2022/"> Conformal prediction beyond exchangeability </a></p></li>
+<li><p> <a href="https://sites.google.com/view/cguzman/">Cristobal Guzman</a>, Catholic University of Chile · April 21st, 2022 · <a href="https://www.hi-paris.fr/2022/04/19/exceptional-seminar-cristobal-guzman-21-april-2022/"> Non-euclidean differentially private stochastic convex optimization </a> </p></li>
+<li><p> <a href="https://reinhardheckel.com/">Reinhard Heckel</a>, Technical University of Munich · April 6th, 2022 · <a href="https://www.hi-paris.fr/2022/04/04/exceptionnal-seminar-reinhard-heckel-06-april-2022/"> Measuring and enhancing robustness in deep learning based compressive sensing </a> </p></li>
 </ul>
 </details>
 
