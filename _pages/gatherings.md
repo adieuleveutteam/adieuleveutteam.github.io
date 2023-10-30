@@ -23,9 +23,8 @@ Once in a while, we also invite researchers to come and present us their work. W
 2023
 </summary>
 <ul>
-<li><p> <a href="https://people.kth.se/~mikaelj/">Mikael Johansson</a> · September 19th, 2023 </p>
-<p> <a href="https://www.hi-paris.fr/2023/09/11/research-seminar-bringing-regularized-optimal-transport-to-lightspeed/">
-[Bringing Regularized Optimal Transport to Lightspeed]</a> </p> </li>
+<li><p> <a href="https://people.kth.se/~mikaelj/">Mikael Johansson</a> · September 19th, 2023 · <a href="https://www.hi-paris.fr/2023/09/11/research-seminar-bringing-regularized-optimal-transport-to-lightspeed/">
+Bringing Regularized Optimal Transport to Lightspeed</a> </p> </li>
 <li><p> <a href="https://www.hi-paris.fr/2023/03/09/hi-paris-seminar-jan-ramon-2023/">
 [April 27th, 2023]</a>, <a href="http://researchers.lille.inria.fr/jramon/">Jan Ramon</a> </p></li>
 </ul>
