@@ -25,12 +25,12 @@ Aymeric's full list of publications is available on [his scholar](https://schola
 
 ### 2023
 
-- <span style="background-color:var(--global-theme-color)">Missing Values</span> **Naive imputation implicitly regularizes high-dimensional linear models**  
+- <span style="background-color:var(--global-theme-color)"> Missing Values </span> **Naive imputation implicitly regularizes high-dimensional linear models**  
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet  
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/ayme23a.html) · [arXiv](https://arxiv.org/abs/2301.13585)
 
-- <span style="background-color:var(--global-theme-color)">Missing Values</span> <span style="background-color:var(--global-theme-color)">Uncertainty Quantification</span> **Conformal Prediction with Missing Values**  
+- <span style="background-color:var(--global-theme-color)"> Missing Values </span> <span style="background-color:var(--global-theme-color)"> Uncertainty Quantification </span> **Conformal Prediction with Missing Values**  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/zaffran23a.html) · [arXiv](https://arxiv.org/abs/2306.02732) · [code](https://github.com/mzaffran/ConformalPredictionMissingValues) · [project's webpage](http://mzaffran.github.io/uq-na)
