@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) is an Assistant Professor of Statistics and Optimization at Ecole polytechnique, in France.
+[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) is a Professor of Statistics and Optimization at Ecole polytechnique, in France.
 
 Our group is working on fields as diverse as:
 - first order optimization,
