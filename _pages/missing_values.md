@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research on uncertainty quantification
+title: Research on missing values
 permalink: /publications/missing_values
 nav: false
 
