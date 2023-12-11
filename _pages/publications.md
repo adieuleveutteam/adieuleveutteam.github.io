@@ -30,7 +30,7 @@ A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/ayme23a.html) · [arXiv](https://arxiv.org/abs/2301.13585)
 
-- **Conformal Prediction with Missing Values** <span style="float:right;"><span style="background-color:var(--global-theme-color)">Missing Values</span>  <span style="background-color:var(--global-theme-color)">Uncertainty Quantification</span></span>  
+- **Conformal Prediction with Missing Values** <span style="float:right;"><span style="background-color:var(--global-theme-color)">Missing Values</span>  <span style="background-color:green">Uncertainty Quantification</span></span>  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/zaffran23a.html) · [arXiv](https://arxiv.org/abs/2306.02732) · [code](https://github.com/mzaffran/ConformalPredictionMissingValues) · [project's webpage](http://mzaffran.github.io/uq-na)
