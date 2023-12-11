@@ -10,6 +10,8 @@ nav_order: 1
 
 ### Postdoctoral fellows
 
+- Jean-Baptiste Fest, 2023 -- .
+
 - [Rémi Leluc](https://remileluc.github.io/), 2023 -- .
 
 ### PhD students
