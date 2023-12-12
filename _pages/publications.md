@@ -25,7 +25,7 @@ Aymeric's full list of publications is available on [his scholar](https://schola
 
 ### 2023
 
-- **Naive imputation implicitly regularizes high-dimensional linear models**  <span style="float:right;"><span style="background-color:var($color-tag-5)">Missing Values</span></span>  
+- **Naive imputation implicitly regularizes high-dimensional linear models**  <span style="float:right;"><span style="background-color:#{$color-tag-5}">Missing Values</span></span>  
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet  
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/ayme23a.html) · [arXiv](https://arxiv.org/abs/2301.13585)
