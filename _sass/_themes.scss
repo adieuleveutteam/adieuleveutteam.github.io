@@ -30,6 +30,12 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  --global-color-tag-1: #87d68d !default;
+  --global-color-tag-2: #bcebcb !default;
+  --global-color-tag-3: #f7fff6 !default;
+  --global-color-tag-4: #{$cyan-color};
+  --global-color-tag-5: #{$purple-color};
+
   .fa-sun {
     display : none;
   }
@@ -74,6 +80,12 @@ html[data-theme='dark'] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+
+  --global-color-tag-1: #87d68d !default;
+  --global-color-tag-2: #bcebcb !default;
+  --global-color-tag-3: #f7fff6 !default;
+  --global-color-tag-4: #{$cyan-color};
+  --global-color-tag-5: #{$purple-color};
 
 
   .fa-sun {
