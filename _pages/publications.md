@@ -25,24 +25,24 @@ Aymeric's full list of publications is available on [his scholar](https://schola
 
 ### 2023
 
-- **Naive imputation implicitly regularizes high-dimensional linear models**  <span style="float:right;"><span style="background-color:var(--global-color-tag-5)">Missing Values</span></span>  
+- **Naive imputation implicitly regularizes high-dimensional linear models**  <span style="float:right;"><span style="background-color:var(--global-color-tag-4)">Missing Values</span></span>  
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet  
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/ayme23a.html) · [arXiv](https://arxiv.org/abs/2301.13585)
 
-- **Conformal Prediction with Missing Values** <span style="float:right;"><span style="background-color:var(--global-theme-color)">Missing Values</span>  <span style="background-color:var(--global-theme-color)">Uncertainty Quantification</span></span>  
+- **Conformal Prediction with Missing Values** <span style="float:right;"><span style="background-color:var(--global-color-tag-3)">Missing Values</span>  <span style="background-color:var(--global-color-tag-5)">Uncertainty Quantification</span></span>  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 *ICML*, 2023  
 [proceedings](https://proceedings.mlr.press/v202/zaffran23a.html) · [arXiv](https://arxiv.org/abs/2306.02732) · [code](https://github.com/mzaffran/ConformalPredictionMissingValues) · [project's webpage](http://mzaffran.github.io/uq-na)
 
 ### 2022
 
-- **Near optimal rate of consistency for linear models with missing values**<span style="float:right;"><span style="background-color:var(--global-theme-color)">Missing Values</span></span>  
+- **Near optimal rate of consistency for linear models with missing values**<span style="float:right;"><span style="background-color:var(--global-color-tag-1)">Missing Values</span></span>  
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet  
 *ICML*, 2022  
 [proceedings](https://proceedings.mlr.press/v162/ayme22a.html) · [arXiv](https://arxiv.org/abs/2202.01463) · [code](https://github.com/AlexisAyme/minimax_linear_na)
 
-- **Adaptive Conformal Predictions for Time Series**<span style="float:right;"><span style="background-color:var(--global-theme-color)">Uncertainty Quantification</span></span>  
+- **Adaptive Conformal Predictions for Time Series**<span style="float:right;"><span style="background-color:var(--global-color-tag-2)">Uncertainty Quantification</span></span>  
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
 *ICML*, 2022  
 [proceedings](https://proceedings.mlr.press/v162/zaffran22a.html) · [arXiv](https://arxiv.org/abs/2202.07282) · [code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries) · [project's webpage](http://mzaffran.github.io/acp-ts)
