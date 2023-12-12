@@ -42,7 +42,7 @@ M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano
 
 ### 2022
 
-- **Near optimal rate of consistency for linear models with missing values**<span style="float:right;"><span style="background-color:var(--global-color-tag-4)">Missing Values</span></span>  
+- **Near optimal rate of consistency for linear models with missing values**<span style="float:right;"><span style="background-color:var(--global-color-tag-1)">Missing Values</span></span>  
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet  
 *ICML*, 2022  
 [proceedings](https://proceedings.mlr.press/v162/ayme22a.html) · [arXiv](https://arxiv.org/abs/2202.01463) · [code](https://github.com/AlexisAyme/minimax_linear_na)
