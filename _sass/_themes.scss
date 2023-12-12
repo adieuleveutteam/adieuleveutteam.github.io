@@ -30,12 +30,6 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  --global-color-tag-1: #87d68d;
-  --global-color-tag-2: #bcebcb;
-  --global-color-tag-3: #f7fff6;
-  --global-color-tag-4: #{$cyan-color};
-  --global-color-tag-5: #{$purple-color};
-
   .fa-sun {
     display : none;
   }
@@ -81,11 +75,6 @@ html[data-theme='dark'] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  --global-color-tag-1: #87d68d;
-  --global-color-tag-2: #bcebcb;
-  --global-color-tag-3: #f7fff6;
-  --global-color-tag-4: #{$cyan-color};
-  --global-color-tag-5: #{$purple-color};
 
   .fa-sun {
     padding-left: 10px;
