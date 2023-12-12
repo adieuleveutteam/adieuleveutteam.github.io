@@ -30,11 +30,11 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  --global-color-tag-1: #87d68d;
-  --global-color-tag-2: #bcebcb;
-  --global-color-tag-3: #f7fff6;
+  --global-color-tag-1: #D74E09;
+  --global-color-tag-2: #F2BB05;
+  --global-color-tag-3: #F0F0C9;
   --global-color-tag-4: #{$cyan-color};
-  --global-color-tag: #{$purple-color};
+  --global-color-tag-5: #{$purple-color};
 
   .fa-sun {
     display : none;
@@ -81,9 +81,9 @@ html[data-theme='dark'] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  --global-color-tag-1: #87D68D;
-  --global-color-tag-2: #BCEBCB;
-  --global-color-tag-3: #F7FFF6;
+  --global-color-tag-1: #D74E09;
+  --global-color-tag-2: #F2BB05;
+  --global-color-tag-3: #F0F0C9;
   --global-color-tag-4: #{$cyan-color};
   --global-color-tag-5: #{$purple-color};
 
