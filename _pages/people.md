@@ -31,7 +31,7 @@ _Co-director:_ J. Josse
 
 ### MSc students
 
-- Mahmoud Hegazy, 2023 -- .
+- [Mahmoud Hegazy](https://mahegz.github.io/), 2023 -- .
 
 ***
 
