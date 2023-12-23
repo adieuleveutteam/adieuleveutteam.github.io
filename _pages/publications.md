@@ -25,7 +25,7 @@ Aymeric's full list of publications is available on [his scholar](https://schola
 
 ### 2023
 
-- **Compression with Exact Error Distribution for Federated Learning** <span style="float:right;"><span style="background-color:var(--global-color-tag-2)">Federated Learning</span></span>
+- **Compression with Exact Error Distribution for Federated Learning** <span style="float:right;"><span style="background-color:var(--global-color-tag-2)">Federated Learning</span></span>   
 M. Hegazy, R. Leluc, C.T. Li, A. Dieuleveut  
 *preprint*, 2023  
 [arXiv](https://arxiv.org/abs/2310.20682) 
