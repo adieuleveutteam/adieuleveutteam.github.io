@@ -20,6 +20,14 @@ The team gathers together every week for an internal group meeting where one of 
 Once in a while, we also invite researchers to come and present us their work. We had the pleasure to welcome:
 <details open>
 <summary>
+2024
+</summary>
+<ul>
+<li><p> <a href="https://laurentlessard.com/">Laurent Lessard</a>, <a href="https://www.ceremade.dauphine.fr/~chambolle/">Antonin Chambolle</a>, <a href="https://perso.ensta-paris.fr/~simonetto/">Andrea Simonetto</a>, April 5th, 2024. <a href="https://www.hi-paris.fr/2024/03/20/an-afternoon-on-numerical-optimization-join-us-at-ecole-polytechnique/">An afternoon on numerical optimization</a> </p> </li>
+</ul>
+</details>
+<details open>
+<summary>
 2023
 </summary>
 <ul>
