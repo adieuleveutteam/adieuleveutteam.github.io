@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:mortar_board: Margaux Zaffran has successfully defended her PhD: [CPost-hoc predictive uncertainty
+:mortar_board: Margaux Zaffran has successfully defended her PhD: [Post-hoc predictive uncertainty
 quantification: methods with applications to electricity price forecasting](https://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf) 
