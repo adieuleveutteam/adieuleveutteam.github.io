@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:boom: Aymeric is now Professor in Statistics and Learning! 
+:boom: Aymeric is has obtained his tenure as a Professor in Statistics and Learning! 
